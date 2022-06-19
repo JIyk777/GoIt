@@ -1,0 +1,55 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* main styles */
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #F5F7FA;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* content styles */
+
+.content {
+    background-color: #FFFFFF;
+    
+}
+
+/* about user styles */
+
+.about {
+    background-color: #FFFFFF;
+}
+
+/* project styles */
+
+.project {
+    background-color: #FFFFFF;
+    
+}
+.project-title {
+    
+}
+
+/* work styles */
+
+.work {
+    background-color: #FFFFFF;
+    
+}
+
+/* education styles */
+
+.education {
+    background-color: #FFFFFF;
+}
+
+/* sidebar styles */
+
+.sidebar {
+    background: #1E2939;
+}
